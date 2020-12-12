@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TallerKotlin</string>
+    <string name="txtboton">IR</string>
+    <string name="txt2">Texto de prueba</string>
+</resources>
